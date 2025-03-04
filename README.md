@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  📌 Fire-and-Forget IoT Simulator
 🚀 Simulate IoT Device Data Streaming to Azure IoT Hub
 This Python-based simulator mimics an IoT device by generating real-time sensor data (temperature, humidity) and publishing it to Azure IoT Hub using MQTT.
@@ -53,3 +54,7 @@ This project is licensed under the MIT License.
 
 🚀 Like This? Give It a Star ⭐ on GitHub!
 If this project helped you, consider giving it a ⭐ on GitHub & sharing on LinkedIn! 🎉
+=======
+# fire-and-forget-iot-simulator
+A Python-based IoT simulator that streams real-time sensor data to Azure IoT Hub using MQTT.
+>>>>>>> 71b26062b9331b1cc46bb7447c646a87bb2df15f
